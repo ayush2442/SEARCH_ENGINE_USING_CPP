@@ -54,4 +54,4 @@ To build and run the project, you can use the provided `Makefile`. Follow these 
 2. **Run the Project**:
    Run the following command along with file name included:
    ```sh
-   ./searchengine -d smalldataset.txt -k 2
+   ./searchengine -d <name of your file> -k <number of lines>
