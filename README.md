@@ -50,3 +50,8 @@ To build and run the project, you can use the provided `Makefile`. Follow these 
    Open a terminal and navigate to the directory containing the `Makefile`. Run the following command to compile the project:
    ```sh
    make
+   
+2. **Run the Project**:
+   Run the following command along with file name included:
+   ```sh
+   ./searchengine -d smalldataset.txt -k 2
